@@ -1,6 +1,6 @@
 # #1 Free IP Stresser / IP Booter V10 — Ultimate Network Stress Testing Suite 🚀
 
-**Made by https://returnstress.st/ 🌙**
+**Made by https://return.st/ 🌙**
 
 ## 🚀 Introduction
 
@@ -117,7 +117,7 @@ Welcome to **Free IP Stresser Booter V10**—a cutting-edge *Python IP Stresser*
 
 ### 🖥️ Interface & Vibes
 
-- 🎨 ASCII art intro: **Free IP Stresser Booter V10** — Powered by returnstress.st.
+- 🎨 ASCII art intro: **Free IP Stresser Booter V10** — Powered by return.st.
 - 🌈 **Colors:** Light blue for prompts/menu, green for success, red for errors (via logging).
 - 📊 **Stats Tracking:** Reports packets sent, connections made, or requests completed after each run.
 - 🏷️ Window title: **Free IP Stresser Booter V10**.
@@ -155,7 +155,7 @@ Want to explore the best **Free IP Stresser** and **Free IP Booter** tools in 20
 
 ## 🙌 Credits
 
-- 🌙 **Made by:** https://returnstress.st/
+- 🌙 **Made by:** https://return.st/
 - 🔥 **Purpose:** Your go-to **Free IP Stresser** and **Free IP Booter** suite for ethical server stress testing and diagnostics!
 
 ---
